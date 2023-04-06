@@ -1,8 +1,11 @@
 package com.atitomirov;
 
 public class Main {
+    
+    private static String msg = "Hello world!!!!!";
+    
     public static void main(String[] args) {
 
-        System.out.println("Hello world!!!!!");
+        System.out.println(msg);
     }
 }
